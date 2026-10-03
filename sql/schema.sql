@@ -1,4 +1,4 @@
--- SOUTH INDIAN MUSIC SEARCH
+-- Filtered Music Search
 -- PostgreSQL schema - V2
 -- Metadata-only search application. Safe to re-run on an existing V2 database.
 -- No DROP statements.

@@ -1,6 +1,6 @@
-# South Indian Music Search
+# Filtered Music Search
 
-A metadata search and provenance project for South Indian film music. The application stores structured song, film, artist, role-credit and source metadata; it does **not** stream music.
+A metadata search and provenance project for Indian film music. The application stores structured song, film, artist, role-credit and source metadata; it does **not** stream music.
 
 ## Architecture
 

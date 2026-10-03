@@ -1,6 +1,6 @@
 # Project completion report
 
-The uploaded South Indian Music Search project has been reviewed and corrected across the full application path.
+The uploaded Filtered Music Search project has been reviewed and corrected across the full application path.
 
 ## Completed
 
